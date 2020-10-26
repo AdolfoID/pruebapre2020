@@ -1,5 +1,4 @@
 <?php 
-echo "Hola mundo";
-echo "Nuevas cosas";
-echo "Cambio de desarrollo"
+echo "Adolfo Herrera -- U20151477";
+
 ?>
